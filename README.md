@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Restzeit
-- 👀 I’m interested in ,
-- 🌱 I’m currently learning English,biology and physics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Magic，Physics And biology
+- 🌱 I’m currently learning English,español,biology and physics
+- 💞️ I’m looking to collaborate on Biology and english learning
 - 📫 How to reach me ...
 
 <!---
